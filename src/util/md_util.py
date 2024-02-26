@@ -38,6 +38,7 @@ from markdown import Extension
 from markdown.blockprocessors import BlockProcessor
 import xml.etree.ElementTree as etree
 
+tab_length = 2
 
 def md_to_html(md: str) -> str:
     class BoxBlockProcessor(BlockProcessor):
@@ -67,4 +68,4 @@ def md_to_html(md: str) -> str:
         "tables",
         "toc",
     ]
-    return markdown(md, extensions=extensions)
+    return markdown(md, extensions=extensions, tab_length=tab_length)
