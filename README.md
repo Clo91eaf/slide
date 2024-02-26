@@ -1,3 +1,8 @@
+# slide
+
+基于[jyyslide-md](https://github.com/zweix123/jyyslide-md)的自定义风格slide框架.
+
+
 # jyyslide-md
 
 一款通过简约的Mardown方言生成具有[南大蒋炎岩老师幻灯片](http://jyywiki.cn/OS/2022/slides/1.slides#/)风格的Web幻灯片转换工具  

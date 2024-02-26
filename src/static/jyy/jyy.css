@@ -84,7 +84,7 @@
 
 .reveal h2 {
     font-size: 48px;
-    border-bottom: 2px solid rgb(106, 0, 95);
+    border-bottom: 3px solid rgb(4, 84, 183);
     padding-bottom: 5px;
 }
 
@@ -126,7 +126,7 @@
 
 .reveal .middle blockquote {
     text-align: center;
-    color: rgb(106, 0, 95);
+    color: rgb(16, 18, 155);
     background: none;
     box-shadow: none;
 }
